@@ -1,0 +1,22 @@
+{
+  "name": "@bnd-tech/leetd-package",
+  "version": "1.0.1",
+  "description": "to test publishing to registry npm.leetd.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leetdx/leetd-package.git"
+  },
+  "keywords": [
+    "leetd-package"
+  ],
+  "author": "dunglt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leetdx/leetd-package/issues"
+  },
+  "homepage": "https://github.com/leetdx/leetd-package#readme"
+}
